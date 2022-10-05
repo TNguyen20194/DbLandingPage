@@ -253,14 +253,14 @@ li .border:hover {
     color: var(--clr-white);
 }
 .photography {
-    background-image: url(asset/img/desktop_photography_2000x.webp);
+    background-image: url(Asset/img/desktop_photography_2000x.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
     height: min(62vw, 55rem);
 }
 .back-to-school {
-    background-image: url(asset/img/desktop_back-to-school_2000x.webp);
+    background-image: url(Asset/img/desktop_back-to-school_2000x.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
